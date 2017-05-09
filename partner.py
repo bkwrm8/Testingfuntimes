@@ -1,1 +1,1 @@
-# Hello!!  It's me, Person 2.
+# Hello, Person 1!!  It's me, Person 2.
